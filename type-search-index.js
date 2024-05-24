@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.jungboke.cicdtest.controller","l":"BasicController"},{"p":"com.jungboke.cicdtest","l":"CicdTestApplication"}];updateSearchResults();
